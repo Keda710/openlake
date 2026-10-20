@@ -1,10 +1,18 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openlake-project/openlake/refs/heads/main/assets/openlake-logo-wide-dark.png" width=60%>
-  <img alt="OpenLake" src="https://raw.githubusercontent.com/openlake-project/openlake/refs/heads/main/assets/openlake-logo-wide.png" width=60%>
-</picture>
+<a href="https://raw.githubusercontent.com/openlake-project/openlake/refs/heads/main/assets/openlake-logo-wide.png#gh-light-mode-only">
+  <img
+    src="https://raw.githubusercontent.com/openlake-project/openlake/refs/heads/main/assets/openlake-logo-wide.png"
+    alt="OpenLake"
+    width="60%">
+</a>
+<a href="https://raw.githubusercontent.com/openlake-project/openlake/refs/heads/main/assets/openlake-logo-wide-dark.png#gh-dark-mode-only">
+  <img
+    src="https://raw.githubusercontent.com/openlake-project/openlake/refs/heads/main/assets/openlake-logo-wide-dark.png"
+    alt="OpenLake"
+    width="60%">
+</a>
 
 <h3 align="center">
 Fast, easy and efficient storage for LLM Inference and Training
